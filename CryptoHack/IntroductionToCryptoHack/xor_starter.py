@@ -1,4 +1,4 @@
-from pwn import *
+from pwn import xor
 
 stringCode = "label"
 intCode = 13
